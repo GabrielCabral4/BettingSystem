@@ -1,5 +1,3 @@
-import br.edu.ufcg.computacao.mrbet.Campeonato;
-import br.edu.ufcg.computacao.mrbet.Time;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

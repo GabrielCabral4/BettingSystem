@@ -1,4 +1,3 @@
-package br.edu.ufcg.computacao.mrbet;
 import java.util.ArrayList;
 import java.util.HashMap;
 

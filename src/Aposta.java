@@ -1,4 +1,3 @@
-package br.edu.ufcg.computacao.mrbet;
 /**
  * Representação das apostas dentro do MrBet
  */
